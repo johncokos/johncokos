@@ -12,5 +12,5 @@
 ![](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.jslogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html-5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=2bbc8a)
